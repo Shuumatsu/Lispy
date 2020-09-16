@@ -1,0 +1,3 @@
+{
+    "C_Cpp.default.includePath": ["ext/mpc-0.9.0"]
+}

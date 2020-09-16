@@ -1,0 +1,3 @@
+/home/curry/workspace/lispy/CMakeFiles/rebuild_cache.dir
+/home/curry/workspace/lispy/CMakeFiles/edit_cache.dir
+/home/curry/workspace/lispy/CMakeFiles/Lispy.dir

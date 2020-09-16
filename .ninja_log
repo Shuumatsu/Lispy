@@ -1,0 +1,10 @@
+# ninja log v5
+1	37	1600429290733578009	CMakeFiles/Lispy.dir/src/parsing.c.o	5a9c983d1fc79886
+0	44	1600428960676919657	CMakeFiles/Lispy.dir/src/eval.c.o	38718a387ab63eb8
+0	44	1600344789829046341	CMakeFiles/Lispy.dir/src/ast.c.o	a0a16adc7eb20a5c
+1	234	1600278369104065129	CMakeFiles/Lispy.dir/ext/mpc-0.9.0/mpc.c.o	c866dc8dc66b756c
+37	58	1600429290753578010	bin/Lispy	d88977e935ca84f4
+0	102	1600430412820216480	CMakeFiles/Lispy.dir/src/parsing.c.o	5a9c983d1fc79886
+0	119	1600430412836883148	CMakeFiles/Lispy.dir/src/eval.c.o	38718a387ab63eb8
+0	119	1600430412836883148	CMakeFiles/Lispy.dir/src/ast.c.o	a0a16adc7eb20a5c
+119	142	1600430412860216480	bin/Lispy	d88977e935ca84f4
